@@ -6,11 +6,15 @@
   "repository": "git@github.com:titouancreach/trailblazer-dvp.com.git",
   "author": "Titouan CREACH <titouan.creach@eegle.io>",
   "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack"
+  },
   "dependencies": {
     "phaser": "^2.6.2"
   },
   "devDependencies": {
     "babel": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1",
     "webpack": "^3.5.5"
   }
 }
