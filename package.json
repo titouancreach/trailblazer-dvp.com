@@ -1,0 +1,16 @@
+{
+  "name": "trailblazer-dvp.com",
+  "version": "1.0.0",
+  "description": "Develop your game on 1 week-end, hosted by developpez.com",
+  "main": "index.js",
+  "repository": "git@github.com:titouancreach/trailblazer-dvp.com.git",
+  "author": "Titouan CREACH <titouan.creach@eegle.io>",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^3.5.5"
+  }
+}
